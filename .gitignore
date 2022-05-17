@@ -130,3 +130,7 @@ dmypy.json
 report-builder-lesson.md
 .gitignore
 *.pbix
+/PRIADStudent
+/JaredGodar_exercise_2b_portrait_template.rdl
+/JaredGodar_exercise_3a_salesperson_directory.rdl
+*.rdl
