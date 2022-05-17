@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+report-builder-lesson.md
+.gitignore
+*.pbix
